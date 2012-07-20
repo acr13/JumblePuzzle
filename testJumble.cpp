@@ -7,9 +7,6 @@
  * changing the way JumblePuzzle operates.
  *
  * Edited by Alex Richardson
- * 0601 7909
- * 8acr1
- * CISC320 - Assignment #4
  */
 #include <string>
 #include <iostream>
