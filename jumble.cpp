@@ -4,9 +4,6 @@
  * Implementation for Jumble & BadJumbleException classes.
  *
  * Alex Richardson
- * 0601 7909
- * 8acr1
- * CISC320 - Assignment #4
  */
 
 #include <iostream>
